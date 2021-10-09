@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\..\\Documents\\CODERHOUSE\\CLASES CODERHOUSE\\4 PROGRAMACION BACKEND camada 17035\\02. 211002 - MANEJO ARCH EN JS. PROG SINC Y ASINCRONICA\\desafios en clase"
+		},
+		{
+			"path": "..\\..\\Documents\\CODERHOUSE\\CLASES CODERHOUSE\\4 PROGRAMACION BACKEND camada 17035\\02. 211002 - MANEJO ARCH EN JS. PROG SINC Y ASINCRONICA\\ejemplos"
 		}
 	],
 	"settings": {}
