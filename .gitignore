@@ -3,9 +3,8 @@
 # dependencies
 /node_modules
 /.pnp
-backEnd.code-workspace
-winpty.exe.stackdump
-gitignore
+*.code-workspace
+*.stackdump
 
 # testing
 /coverage
