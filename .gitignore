@@ -2,9 +2,8 @@
 
 # dependencies
 /node_modules
-/.pnp
-*.code-workspace
-*.stackdump
+backEnd.code-workspace
+winpty.exe.stackdump
 
 # testing
 /coverage
